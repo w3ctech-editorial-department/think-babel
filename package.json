@@ -1,6 +1,6 @@
 {
-  "name": "think-babel",
-  "version": "1.0.6",
+  "name": "@w3ctech-editorial-department/think-babel",
+  "version": "1.0.7",
   "description": "Use Babel transpile ES6+ file to ES5",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thinkjs/think-babel.git"
+    "url": "git+https://github.com/liuliangsir/think-babel.git"
   },
   "keywords": [
     "think-babel"
@@ -28,13 +28,17 @@
     {
       "name": "lushijie",
       "email": "lushijie1218@126.com"
+    },
+    {
+      "name": "liuliang",
+      "email": "liuliang@w3ctech.com"
     }
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thinkjs/think-babel/issues"
+    "url": "https://github.com/liuliangsir/think-babel/issues"
   },
-  "homepage": "https://github.com/thinkjs/think-babel#readme",
+  "homepage": "https://github.com/liuliangsir/think-babel#readme",
   "devDependencies": {
     "ava": "~0.18.1",
     "babel-eslint": "~7.1.1",
