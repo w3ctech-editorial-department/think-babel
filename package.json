@@ -1,6 +1,6 @@
 {
   "name": "@w3ctech-editorial-department/think-babel",
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.2",
   "description": "Use Babel transpile ES6+ file to ES5",
   "main": "index.js",
   "scripts": {
@@ -39,6 +39,7 @@
     "url": "https://github.com/liuliangsir/think-babel/issues"
   },
   "homepage": "https://github.com/liuliangsir/think-babel#readme",
+  "readmeFilename": "README.md",
   "devDependencies": {
     "ava": "^1.3.1",
     "babel-eslint": "^10.0.1",
