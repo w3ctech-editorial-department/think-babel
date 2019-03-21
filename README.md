@@ -1,7 +1,7 @@
 # think-babel
 
 [![Build Status](https://travis-ci.com/liuliangsir/think-babel.svg?branch=master)](https://travis-ci.com/liuliangsir/think-babel)
-[![Coverage Status](https://coveralls.io/repos/github/liuliangsir/think-babel/badge.svg)](https://coveralls.io/github/liuliangsir/think-babel)
+[![Coverage Status](https://coveralls.io/repos/github/liuliangsir/think-babel/badge.svg?branch=master)](https://coveralls.io/github/liuliangsir/think-babel)
 [![npm](https://img.shields.io/npm/v/@w3ctech-editorial-department/think-babel.svg?style=flat-square)](https://www.npmjs.com/package/@w3ctech-editorial-department/think-babel)
 
 `think-babel` transpile ES6+ file to ES5
