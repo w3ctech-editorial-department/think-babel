@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint --fix index.js",
     "test": "npm run lint && nyc ava test/index.js",
-    "coverage": "npm test && nyc report --reporter=html"
+    "coverage": "npm test && nyc report --reporter=html",
+    "postversion": "git push && git push --tags"
   },
   "ava": {
     "files": [
@@ -54,6 +55,6 @@
     "think-helper": "^1.0.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/w3ctech-editorial-department"
   }
 }
