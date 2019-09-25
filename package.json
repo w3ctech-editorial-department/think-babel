@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuliangsir/think-babel.git"
+    "url": "git+https://github.com/w3ctech-editorial-department/think-babel.git"
   },
   "keywords": [
     "think-babel"
@@ -36,9 +36,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liuliangsir/think-babel/issues"
+    "url": "https://github.com/w3ctech-editorial-department/think-babel/issues"
   },
-  "homepage": "https://github.com/liuliangsir/think-babel#readme",
+  "homepage": "https://github.com/w3ctech-editorial-department/think-babel#readme",
   "readmeFilename": "README.md",
   "devDependencies": {
     "ava": "^1.3.1",
@@ -52,5 +52,8 @@
   "dependencies": {
     "@babel/core": "^7.4.0",
     "think-helper": "^1.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
